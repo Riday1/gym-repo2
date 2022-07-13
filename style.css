@@ -50,9 +50,11 @@ body {
     }
 }
 
+
+
 @keyframes blinking {
     from {
-        border-color: transparent
+        border-color: transparent;
     }
 
     to {
@@ -80,7 +82,7 @@ body {
     transition: 0.5s;
     transform: scale(1.04);
     color: black;
-    background: red;
+    background: white;
 
 }
 
